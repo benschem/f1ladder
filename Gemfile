@@ -54,3 +54,5 @@ group :development do
   # gem "spring"
 end
 
+# ruby HTTP client
+gem "httpx"
